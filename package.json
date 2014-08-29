@@ -1,7 +1,7 @@
 {
   "name": "gulp-pm",
   "version": "0.0.1",
-  "description": "> 来自 [duo](https://github.com/duojs/duo) 的包管理方案实现。 > `[注意]`正在开发过程中......",
+  "description": "[注意]正在开发过程中......",
   "main": "index.js",
   "dependencies": {
     "duo-package": "^0.4.2",

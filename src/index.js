@@ -1,1 +1,1 @@
-var uid = require(':matthewmueller/uid');
+var uid = require(':QQEDU/delegator2');
